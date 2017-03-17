@@ -8,7 +8,7 @@ creator: Christine Yi for WDIR
 
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive-remote)
 
-# NanoPet
+# Exercise: NanoPet
 
 ![image](http://www.fangirlnextdoor.com/wp-content/uploads/2013/04/nano-pets.jpg)
 
@@ -26,12 +26,12 @@ creator: Christine Yi for WDIR
 
 * Using [alerts and prompts](https://www.w3schools.com/js/js_popup.asp), create functions so that when the game starts you have a choice of options from a menu:
 
-  1. Set NanoPet's name
-  2. Feed the pet
-    - This increases our NanoPet's foodInTummy by 5
-  3. Exercise the pet
-    - This decreases our NanoPet's foodInTummy by 3
-  4. After each selection it alerts you with the NanoPet's stats.
+1. Set NanoPet's name
+2. Feed the pet
+  - This increases our NanoPet's foodInTummy by 5
+3. Exercise the pet
+  - This decreases our NanoPet's foodInTummy by 3
+4. After each selection it alerts you with the NanoPet's stats.
 
 
 * NanoPet has 2 properties: a name, and a foodInTummy. Let's start with default values of our pet:
