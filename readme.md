@@ -28,9 +28,9 @@ creator: Christine Yi for WDIR
 
 1. Set NanoPet's name
 2. Feed the pet
-  - This increases our NanoPet's foodInTummy by 5
+    * This increases our NanoPet's foodInTummy by 5
 3. Exercise the pet
-  - This decreases our NanoPet's foodInTummy by 3
+    * This decreases our NanoPet's foodInTummy by 3
 4. After each selection it alerts you with the NanoPet's stats.
 
 
