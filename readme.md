@@ -26,12 +26,12 @@ creator: Christine Yi for WDIR
 
 * Using [alerts and prompts](https://www.w3schools.com/js/js_popup.asp), create functions so that when the game starts you have a choice of options from a menu:
 
-  1. Set NanoPet's name
-  2. Feed the pet
-    - This increases our NanoPet's foodInTummy by 5
-  3. Exercise the pet
-    - This decreases our NanoPet's foodInTummy by 3
-  4. After each selection it alerts you with the NanoPet's stats.
+1. Set NanoPet's name
+2. Feed the pet
+  - This increases our NanoPet's foodInTummy by 5
+3. Exercise the pet
+  - This decreases our NanoPet's foodInTummy by 3
+4. After each selection it alerts you with the NanoPet's stats.
 
 
 * NanoPet has 2 properties: a name, and a foodInTummy. Let's start with default values of our pet:
